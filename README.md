@@ -11,4 +11,4 @@ Also erstmal bracuht jeder ein Wallet und eine eindeutige ID, diese ID wird im d
 
 Da jeder nur ein Teil des Netzwerkes besitzt und überblicken kann, fällt ein Block in den alle Nodes und Überweisungen gespeichert sind weg. Damit aber eine buchung funktionieren kann, wird für jeden einzeilen Coin eine eigene Buchungsliste hinterlegt, somit ist jeder Coin selbst ein Block. 
 
-Für weitere Informarionen siehe ImplVersion1000.md
+Für weitere Informarionen siehe hier: [ImplVersion1000.md](/ImplVersion1000.md)
