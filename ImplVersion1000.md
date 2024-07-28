@@ -152,9 +152,9 @@ Vertrauen und ein höfflicher Umgang ist vorraussetzung !!
 
 ## Implantierung
 
-Die Node Biblothek habe ich vor Jahren schon mal per C# geschrieben, die wird aus sicherheitsgründen komplett in C++ neu geschrieben. Siehe Projekt libnotc. 
+Die Node Biblothek habe ich vor Jahren schon mal per C# geschrieben, die wird aus sicherheitsgründen komplett in C++ neu geschrieben. Siehe Projekt libnodeOTC. 
 
-Eine anbindung an C#, python und PHP wird über ein wrapper in C implantiert. Der Wrapper ist teil von libnotc. 
+Eine anbindung an C#, python und PHP wird über ein wrapper in C implantiert. Der Wrapper ist teil von libnodeOTC. 
 
 PHP: php-notc
 Python: python-notc
