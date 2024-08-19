@@ -1,4 +1,4 @@
-# OTC Overlay Trusted/Tiny Coin
+# Benadetta OTC - Benadetta Overlay Trusted/Tiny Coin
 
 Mit dem aufkommen des Hype um Bitcoin, war mir früh schon klar dass in Zukunkunft ein Riesen auf kommen an daten entstehen muss. 
 In den letzen Jahren, habe ich mich immer wieder damit beschäftigt. So mit 22 Jahren habe ich mich im Züge der entwicklung meiner Grafik engine mit Graphen beschäftigt. Dabei kahm mir die Idee über ein alternatives System, dass auch offline funktioniert und ähnlich dem System wie Bargeld aufgebaut ist. Immer mal wider habe ich hier und dort mal Code fragmente online gestellt. Von ein Bekannten habe ich vor paar Monaten erfahren, dass er und andere solche Systeme gerade Programmieren. Da ich selbst mal mir ja mal gedanken für so ein System gemacht habe, dachte ich mir meine Überlegungen zu veröffentlichen, mit der hoffnung das es andere Inspierieren oder sogar verwenden.
