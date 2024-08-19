@@ -25,7 +25,7 @@ Das OTC Overlay Trusted/Tiny Coin System unterscheidet sich in mehreren wesentli
 - **Andere Kryptowährungen:** Nutzen kryptografische Techniken wie SHA-256 (Bitcoin) oder Ethash (Ethereum) zur Sicherung der Blockchain. Transaktionen sind pseudonym, aber die Blockchain ist öffentlich einsehbar.
 
 #### Wertsystem:
-- **OTC Overlay Trusted/Tiny Coin:** Kann verschiedene Arten von Werten, einschließlich physischer Gegenstände, integrieren. Der Wert eines Coins kann durch reale Vermögenswerte gedeckt sein, die vom Besitzer hinterlegt werden müssen.
+- **OTC Overlay Trusted/Tiny Coin:** Kann verschiedene Arten von Werten, einschließlich physischer Gegenstände (als Besitz-Zertifikat), integrieren. Der Wert eines Coins kann durch reale Vermögenswerte gedeckt sein, die vom Besitzer hinterlegt werden müssen.
 - **Andere Kryptowährungen:** Der Wert basiert hauptsächlich auf Angebot und Nachfrage auf dem Markt. Physische Gegenstände werden in der Regel nicht direkt in das System integriert.
 
 #### Flexibilität und Einfachheit:
