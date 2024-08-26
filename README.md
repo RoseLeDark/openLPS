@@ -34,4 +34,4 @@ Das System unterscheidet sich in mehreren wesentlichen Punkten von anderen Krypt
 
 Diese Unterschiede machen das OTC Overlay Trusted/Tiny Coin System zu einer einzigartigen Lösung für den sicheren und dezentralen Austausch von Werten, die sowohl online als auch offline funktioniert.
 
-Für weitere Informarionen siehe hier: [ImplVersion1010.md](/Desc/V1/ImplIdee.md)
+Für weitere Informarionen siehe hier: [ImplVersion1010.md](/Desc/V1/Basic.md)
